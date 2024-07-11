@@ -1,1 +1,1 @@
-Chapter1 will tell about the GIT Version control and Giot hub
+Today we will complete the GIt and Git control version module.

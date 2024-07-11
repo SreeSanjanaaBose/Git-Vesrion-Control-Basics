@@ -1,1 +1,1 @@
-Thsi is a github repository trail.
+This is a git version control.
